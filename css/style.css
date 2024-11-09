@@ -1,12 +1,15 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: 'Quicksand';
 }
     
 header {
     position: sticky;
     top:0;
     height: 45px;
+    border: 1px solid grey;
+    background-color: white !important;
 }
 header nav ul {
     display: flex;
@@ -21,12 +24,11 @@ section{
     height: 50vh;
     border: 1px solid grey;
     display: flex;
-    justify-content: center;
     align-items: center;
 }
     
 .Container{
-    margin-top: 0%
+    margin-top: 0%;
 }  
 .Container img{
     height: 300px;
@@ -34,9 +36,15 @@ section{
 .Container h2{
     margin-top: 3%;
 }
-    
-footer {
-    line-height: 40px;
-    display: flex;
+
+#home {
     justify-content: center;
+}
+
+#about {
+    padding-left: 10%;
+}
+
+#contact {
+    padding-left: 10%;
 }
