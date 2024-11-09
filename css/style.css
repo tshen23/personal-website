@@ -9,6 +9,7 @@ header {
 header nav ul {
     display: flex;
     margin-left: 80%;
+    list-style: none;
 }
 header nav ul li{
     padding-left: 10%;
