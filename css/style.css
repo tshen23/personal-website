@@ -48,3 +48,13 @@ section{
 #contact {
     padding-left: 10%;
 }
+
+#status_student {
+    border-radius: 25px;
+    background: maroon;
+    color: white;
+    text-align: center;
+    display: inline;
+    padding-left: 5px;
+    padding-right: 10px;
+}
