@@ -6,18 +6,20 @@
     
 header {
     position: sticky;
-    top:0;
-    height: 45px;
+    top: 0px;
+    padding-top: 10px;
+    padding-bottom: 15px;
     border: 1px solid grey;
     background-color: white !important;
 }
 header nav ul {
-    display: flex;
-    margin-left: 70%;
     list-style: none;
+    overflow: hidden;
+    margin-left: 70%;
 }
 header nav ul li{
     padding-left: 10%;
+    float: left;
 }
     
 section{
