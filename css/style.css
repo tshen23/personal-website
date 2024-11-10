@@ -9,7 +9,7 @@ header {
     top: 0px;
     padding-top: 10px;
     padding-bottom: 15px;
-    border: 1px solid grey;
+    border-bottom: 2px solid grey;
     background-color: white !important;
 }
 header nav ul {
@@ -23,7 +23,7 @@ header nav ul li{
 }
     
 section{
-    border: 1px solid grey;
+    border-bottom: 2px solid grey;
     display: flex;
     align-items: center;
 }
