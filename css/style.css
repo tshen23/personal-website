@@ -90,3 +90,9 @@ section{
 #contact {
     padding-left: 10%;
 }
+
+footer>p {
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    text-align: center;
+}
