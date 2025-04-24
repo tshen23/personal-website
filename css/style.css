@@ -15,7 +15,7 @@ header {
 header nav ul {
     list-style: none;
     overflow: hidden;
-    margin-left: 70%;
+    margin-left: 65%;
 }
 header nav ul li{
     padding-left: 10%;
@@ -84,6 +84,10 @@ section{
 }
 
 #about {
+    padding-left: 10%;
+}
+
+#portfolio {
     padding-left: 10%;
 }
 
